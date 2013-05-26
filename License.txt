@@ -1,0 +1,10 @@
+License
+
+The contents of this file are subject to copyright.  You may not modify this script in any 
+way without direct written permission from the author.  This file and others are under constant developement 
+and may not work as expected.  If you have issues with this script, Please leave a message
+on our repo issue tracker and someone will get back with you. https://github.com/Thestalker/tiger/issues
+Full documentation can be found here https://github.com/Thestalker/tiger/wiki once this script is operational.
+
+Contributor(s):
+Head Developer: Thestalker
